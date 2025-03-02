@@ -27,7 +27,7 @@ This project is an **interactive Retail Store Sales Analysis Dashboard** built u
 4️⃣ Explore the visualizations and insights  
 
 ## 📌 Dashboard Preview  
-![Dashboard Screenshot](Screenshots/Dashboard_Overview.png)  
+![Dashboard Screenshot](![Image](https://github.com/user-attachments/assets/f1e1788e-f7f0-412d-a239-f7005dda6c9a))  
 
 ## 🔗 Connect with Me  
 👔 [LinkedIn](https://www.linkedin.com/in/mayurinegi)  
