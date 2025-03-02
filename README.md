@@ -4,8 +4,7 @@
 This project is an **interactive Retail Store Sales Analysis Dashboard** built using **Power BI**, analyzing key business metrics such as:  
 ✅ **Total Revenue & Profit Trends**  
 ✅ **Customer Segmentation & Behavior**  
-✅ **Top-Selling Products & Sales by Region**  
-✅ **DAX Measures for Performance Tracking**  
+✅ **Top-Selling Products & Sales by Region**   
 
 ## 📁 Repository Structure  
 - **Retail Store Analysis.pbix** → Power BI report file  
@@ -16,13 +15,10 @@ This project is an **interactive Retail Store Sales Analysis Dashboard** built u
 
 ## 📌 Key Features & Insights  
 - **Data Modeling & Relationships**: Cleaned & transformed data for accurate reporting  
-- **Advanced DAX Calculations**: Implemented **YoY Growth, MTD, QTD, and Sales Forecasting**  
 - **Interactive Dashboards**: Users can filter by **Region, Product Category, and Sales Channel**  
 
 ## 🔧 Technologies Used  
-- **Power BI (Visualization, DAX, Data Modeling)**  
-- **SQL (Data Cleaning & Transformation)**  
-- **Excel (Data Preprocessing & Aggregation)**  
+- **Power BI (Visualization)**  
 
 ## 🎯 How to Use  
 1️⃣ Download the `.pbix` file  
